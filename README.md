@@ -122,7 +122,7 @@ This project was created as a **demo backend** to showcase my skills for hiring 
 
 ---
 
-### 6. Optional Features (If Time Allows)
+### 6. Optional Features (I'll add Later, If Time Allows)
 
 * Pagination can be added (`?page=1`)
 * Soft deletes can be enabled on tasks
