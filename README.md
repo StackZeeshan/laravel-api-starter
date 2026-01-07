@@ -136,7 +136,7 @@ This project was created as a **demo backend** to showcase my skills for hiring 
 1. **Clone the repository**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/StackZeeshan/laravel-api-starter.git
 cd laravel-api-starter
 ```
 
