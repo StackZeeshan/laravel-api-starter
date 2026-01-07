@@ -185,7 +185,7 @@ php artisan serve
 | GET       | /api/tasks      | List tasks for user   |
 | POST      | /api/tasks      | Create new task       |
 | GET       | /api/tasks/{id} | View task             |
-| PUT/PATCH | /api/tasks/{id} | Update task           |
+| PUT       | /api/tasks/{id} | Update task           |
 | DELETE    | /api/tasks/{id} | Delete task           |
 
 ---
